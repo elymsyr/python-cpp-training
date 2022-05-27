@@ -1,5 +1,0 @@
-C:\Users\orhun\Desktop\ConsoleApplication1\x64\Debug\CPP_CODES.exe
-C:\Users\orhun\OneDrive - Çukurova Üniversitesi\CODES\C++-EREN\x64\Debug\CPP_CODES.exe
-C:\Users\orhun\Documents\Yedek\OD\Codes\C++\x64\Debug\CPP_CODES.exe
-C:\Users\orhun\OneDrive - Çukurova Üniversitesi\CODES\C++\x64\Debug\CPP_CODES.exe
-C:\Users\orhun\OneDrive\Belgeler\My-Codes\C++\x64\Debug\CPP_CODES.exe
