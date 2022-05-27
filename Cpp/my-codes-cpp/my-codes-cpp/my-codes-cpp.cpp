@@ -4379,8 +4379,8 @@ int main(){
 
 /*
 // Store a class object in a vector
-#include <iostream >
-#include <vector >
+#include <iostream>
+#include <vector>
 using namespace std;
 class Demo{
 	double d;
