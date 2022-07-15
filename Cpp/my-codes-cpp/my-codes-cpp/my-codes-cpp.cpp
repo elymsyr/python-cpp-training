@@ -949,8 +949,6 @@ int main() {
 }
 */
 
-
-
 /*
 #include <iostream>
 using namespace std;
@@ -2583,6 +2581,8 @@ int main(){
 }
 */
 
+//Constructers with Strings
+
 /*
 #include <iostream>
 using namespace std;
@@ -2611,6 +2611,8 @@ int main(){
 }
 
 */
+
+//Base & Derived Classes
 
 /*
 #include <iostream >
@@ -2777,6 +2779,8 @@ int main(){ // Create two stacks that are automatically initialized.
 }
 */
 
+//Copy Constructer
+
 /*
 #include <iostream>
 #include <cstring>
@@ -2864,6 +2868,8 @@ int main(){
 }
 */
 
+//Interesting
+
 /*
 #include <iostream >
 #include <cstring >
@@ -2901,6 +2907,8 @@ int main(){
 	return 0;
 }
 */
+
+//Friend Classes
 
 /*
 #include <iostream >
@@ -3123,7 +3131,8 @@ int main(){
 }
 */
 
-/*#include<iostream>
+/*
+#include<iostream>
 #include<cstring>
 using namespace std;
 
@@ -3213,6 +3222,8 @@ int main(){
 	return 0;
 }
 */
+
+//Interesting
 
 /*
 #include <iostream >
@@ -3451,6 +3462,8 @@ int main(){
 }
 */
 
+//Ambiguousy
+
 /*
 #include <iostream >
 using namespace std;
@@ -3517,6 +3530,8 @@ int main(){
 */
 
 // WEEK 6
+
+//Base & Derived Class
 
 /*
 #include <iostream>
@@ -3795,6 +3810,8 @@ int main(){
 }
 */
 
+//Virtual Base Class
+
 /*
 // This program uses a virtual base class.
 #include <iostream >
@@ -3893,6 +3910,8 @@ int main(){
 */
 
 // WEEK 8
+
+//Templates
 
 /*
 #include <iostream >
@@ -4055,6 +4074,8 @@ int main(){
 	return 0;
 }
 */
+
+//Throw & Catch
 
 /*
 #include <iostream >
